@@ -1398,7 +1398,6 @@ namespace RegexTest
 		[STAThread]
 		static void Main() 
 		{
-			// Testing that I can submit an update
 			Application.Run(new Form1());
 		}
 
